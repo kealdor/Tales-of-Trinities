@@ -1,0 +1,2193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name></name>
+<longname>Alpha Core Collection</longname>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Ash Covenant</name>
+ <set picURL="/Ash Covenant.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>4</manacost>
+ <type>Support Action - Summoner</type>
+ <tablerow>1</tablerow>
+ <text>Create a Yokai Token Unit with 2 Max HP, it has:
+“Enemy Characters can’t be healed”
+</text>
+</card>
+<card>
+ <name>Barrier</name>
+ <set picURL="/Barrier.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>3</manacost>
+ <type>Support Action - Priest</type>
+ <tablerow>1</tablerow>
+ <text>Target Character gains barrier for 12 turns.</text>
+</card>
+<card>
+ <name>Beg the Wise Quondam</name>
+ <set picURL="/Beg the Wise Quondam.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>5</manacost>
+ <type>Support Action - Summoner</type>
+ <tablerow>1</tablerow>
+ <text>Create a Yokai Token Unit with 1 Max HP, it has:
+“You draw 1 aditional card at the beginning of each turn.”</text>
+</card>
+<card>
+ <name>Bring the Pester</name>
+ <set picURL="/Bring the Pester.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>5</manacost>
+ <type>Support Action - Summoner</type>
+ <tablerow>1</tablerow>
+ <text>Create a Yokai Token Unit with 1 Max HP, it has:
+“Your opponents draw 1 card less at the beginning of each of his/her turns. This can’t reduce their draws to less than 3.”
+</text>
+</card>
+<card>
+ <name>Chronostasis</name>
+ <set picURL="/Chronostasis.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>4</manacost>
+ <type>Support Action - Chronomage</type>
+ <tablerow>1</tablerow>
+ <text>Suspend 2 (When you play this card from your hand,remove it with two Shift counters on it. At the beginning of the next Shift step, remove a Shift counter. When the last is removed, resolve the card.)
+Choose one:
+-Target Character loses his/her next turn.
+-Add 12 Shifts to target suspended Action.</text>
+</card>
+<card>
+ <name>Conflagration</name>
+ <set picURL="/Conflagration.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>6</manacost>
+ <type>Magical Action - Warlock Fire</type>
+ <tablerow>1</tablerow>
+ <text>Suspend 2 (When you play this card from your hand,remove it with two Shift counters on it. At the beginning of the next Shift step, remove a Shift counter. When the last is removed, resolve the card.) 
+
+Deals (Magic) damage to every enemy Unit.</text>
+</card>
+<card>
+ <name>Dark Lightning</name>
+ <set picURL="/Dark Lightning.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>4</manacost>
+ <type>Magical Action - Chronomage Warlock Magical</type>
+ <tablerow>1</tablerow>
+ <text>Suspend 2 (When you play this card from your hand,remove it with two Shift counters on it. At the beginning of the next Shift step, remove a Shift counter. When the last is removed, resolve the card.)
+
+Deals (Magic) damage to target Unit, Put a Dark counter on it.</text>
+</card>
+<card>
+ <name>Dark Spell</name>
+ <set picURL="/Dark Spell.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>4</manacost>
+ <type>Magical Action - Shaman Warlock Dark</type>
+ <tablerow>1</tablerow>
+ <text>Suspend 2 (When you play this card from your hand,remove it with two Shift counters on it. At the beginning of the next Shift step, remove a Shift counter. When the last is removed, resolve the card.)
+
+Deals (Half Magic) Damage to target Character, then that Character loses that much mana.</text>
+</card>
+<card>
+ <name>Divination</name>
+ <set picURL="/Divination.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>X</manacost>
+ <type>Support Action - Shaman</type>
+ <tablerow>1</tablerow>
+ <text>Look at the top (5 + X) cards of your library, then return them in any order. (X cant be 0)
+
+You may play an additional Action this turn.</text>
+</card>
+<card>
+ <name>Engulfing Dreams</name>
+ <set picURL="/Engulfing Dreams.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>3</manacost>
+ <type>Magical Action - Warlock Dark</type>
+ <tablerow>1</tablerow>
+ <text>Suspend 2 (When you play this card from your hand,remove it with two Shift counters on it. At the beginning of the next Shift step, remove a Shift counter. When the last is removed, resolve the card.)
+
+Target Unit gains sleep for 12 turns.</text>
+</card>
+<card>
+ <name>Flame Coil</name>
+ <set picURL="/Flame Coil.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>3</manacost>
+ <type>Magical Action - Warlock Fire</type>
+ <tablerow>1</tablerow>
+ <text>You may play Flame Coil as an additional Action if you played a Fire Action card this turn.
+
+Flame Coil deals 2 damage to target Unit.
+</text>
+</card>
+<card>
+ <name>Fogs of War</name>
+ <set picURL="/Fogs of War.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>5</manacost>
+ <type>Support Action - Shaman</type>
+ <tablerow>1</tablerow>
+ <text>Flip 1 coin for each Enemy character. Each character that got X coins won gains blind for (triple X) turns.</text>
+</card>
+<card>
+ <name>Harmonize</name>
+ <set picURL="/Harmonize.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>3</manacost>
+ <type>Support Action - Shaman</type>
+ <tablerow>1</tablerow>
+ <text>Remove all abnormal status from every Character.</text>
+</card>
+<card>
+ <name>Healing Burst</name>
+ <set picURL="/Healing Burst.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>2</manacost>
+ <type>Support Action - Priest</type>
+ <tablerow>1</tablerow>
+ <text>Each Character you control heals an amount equal to its Magic.</text>
+</card>
+<card>
+ <name>Healing magic</name>
+ <set picURL="/Healing magic.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>3</manacost>
+ <type>Support Action - Priest</type>
+ <tablerow>1</tablerow>
+ <text>Target character heals (Magic).</text>
+</card>
+<card>
+ <name>Holy Beam</name>
+ <set picURL="/Holy Beam.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>4</manacost>
+ <type>Magical Action - Priest Light</type>
+ <tablerow>1</tablerow>
+ <text>Suspend 3 (When you play this card from your hand,remove it with three Shift counters on it. At the beginning of the next Shift step, remove a Shift counter. When the last is removed, resolve the card.)
+
+Deals (Magic) Damage to target Unit.
+
+If you didnt play Holy Beam from your hand, resolve it instantly instead of suspending it.</text>
+</card>
+<card>
+ <name>Impudent Summoning</name>
+ <set picURL="/Impudent Summoning.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>6</manacost>
+ <type>Support Action - Summoner</type>
+ <tablerow>1</tablerow>
+ <text>Remove from the game 2 Summoner Action cards chosen at random from your discard pile, then you may copy of each them once.</text>
+</card>
+<card>
+ <name>Invite the Spectre</name>
+ <set picURL="/Invite the Spectre.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>4</manacost>
+ <type>Support Action - Summoner</type>
+ <tablerow>1</tablerow>
+ <text>Create a Yokai Token Unit with 1 Max HP, it has:
+“At the beginning of each shift step every enemy Character loses 1 mana”
+</text>
+</card>
+<card>
+ <name>Invoke Ancestors</name>
+ <set picURL="/Invoke Ancestors.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>5</manacost>
+ <type>Support Action - Summoner</type>
+ <tablerow>1</tablerow>
+ <text>Create a Ancestor Token Unit with 1 Max HP, it has:
+“Reduce all damage dealt to Characters you control by 2.”
+</text>
+</card>
+<card>
+ <name>Life’s Embrace</name>
+ <set picURL="/Life’s Embrace.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>5</manacost>
+ <type>Support Action - Priest Geomancer</type>
+ <tablerow>1</tablerow>
+ <text>You may Flip 0 coins instead of paying Nature’s Embrace mana cost. If you do and lose the coin cancel it.
+
+Prevent all damage that would by dealt to target unit for 6 turns.</text>
+</card>
+<card>
+ <name>Meteorite</name>
+ <set picURL="/Meteorite.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>6</manacost>
+ <type>Magical Action - Chronomage Dark</type>
+ <tablerow>1</tablerow>
+ <text>Suspend 6 (When you play this card from your hand,remove it with six Shift counters on it. At the beginning of the next Shift step, remove a Shift counter. When the last is removed, resolve the card.)
+Deals (Magic) damage to every enemy Unit.</text>
+</card>
+<card>
+ <name>Plead for the Kirin</name>
+ <set picURL="/Plead for the Kirin.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>5</manacost>
+ <type>Support Action - Summoner</type>
+ <tablerow>1</tablerow>
+ <text>Create a Spirit Token Unit with 1 Max HP, it has:
+“At the beginning of each shift step remove all abnormal status from every Character you control.”
+</text>
+</card>
+<card>
+ <name>Polymorph</name>
+ <set picURL="/Polymorph.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>4</manacost>
+ <type>Magical Action - Warlock Dark</type>
+ <tablerow>1</tablerow>
+ <text>Suspend 4 (When you play this card from your hand,remove it with four Shift counters on it. At the beginning of the next Shift step, remove a Shift counter. When the last is removed, resolve the card.)
+Target Unit gains frog for 12 turns.</text>
+</card>
+<card>
+ <name>Purification</name>
+ <set picURL="/Purification.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>2</manacost>
+ <type>Support Action - Priest</type>
+ <tablerow>1</tablerow>
+ <text>Remove all abnormal status from target Character.</text>
+</card>
+<card>
+ <name>Raise</name>
+ <set picURL="/Raise.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>4</manacost>
+ <type>Support Action - Priest</type>
+ <tablerow>1</tablerow>
+ <text>Suspend 2 (When you play this card from your hand,remove it with two Shift counters on it. At the beginning of the next Shift step, remove a Shift counter. When the last is removed, resolve the card.)
+
+Revive target Character, healing it by half of its Max HP.</text>
+</card>
+<card>
+ <name>Reflex</name>
+ <set picURL="/Reflex.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>2</manacost>
+ <type>Support Action - Chronomage</type>
+ <tablerow>1</tablerow>
+ <text>Suspend 2 (When you play this card from your hand,remove it with two Shift counters on it. At the beginning of the next Shift step, remove a Shift counter. When the last is removed, resolve the card.)
+Target Character gains reflex for 12 turns.
+</text>
+</card>
+<card>
+ <name>Reraise</name>
+ <set picURL="/Reraise.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>4</manacost>
+ <type>Support Action - Priest</type>
+ <tablerow>1</tablerow>
+ <text>Target Unit gains reraise for 12 turns.</text>
+</card>
+<card>
+ <name>Sanctuary</name>
+ <set picURL="/Sanctuary.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>5</manacost>
+ <type>Support Action - Shaman</type>
+ <tablerow>1</tablerow>
+ <text>Flip 1 coin for each Enemy character. Each character that got X coins won gains silence for (triple X) turns.</text>
+</card>
+<card>
+ <name>Sorcery Aid</name>
+ <set picURL="/Sorcery Aid.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>2</manacost>
+ <type>Support Action - Shaman</type>
+ <tablerow>1</tablerow>
+ <text>Choose a Character. 
+The next time that character plays an Action with mana cost, copy it.</text>
+</card>
+<card>
+ <name>Sorcery of Death</name>
+ <set picURL="/Sorcery of Death.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>4</manacost>
+ <type>Magical Action - Warlock Dark</type>
+ <tablerow>1</tablerow>
+ <text>Suspend 3 (When you play this card from your hand,remove it with three Shift counters on it. At the beginning of the next Shift step, remove a Shift counter. When the last is removed, resolve the card.)
+
+Put a Dark Counter on Active Unit.
+
+Flip 4 coins + an additional coin for each Dark counter on Active Unit. If you get 4 or more coins won, target Unit dies.</text>
+</card>
+<card>
+ <name>Sorcery of Flames</name>
+ <set picURL="/Sorcery of Flames.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>3</manacost>
+ <type>Magical Action - Warlock Fire</type>
+ <tablerow>1</tablerow>
+ <text>Suspend 2 (When you play this card from your hand,remove it with two Shift counters on it. At the beginning of the next Shift step, remove a Shift counter. When the last is removed, resolve the card.)
+
+Deals (Magic) damage to target Unit.</text>
+</card>
+<card>
+ <name>Sorcery of Ice</name>
+ <set picURL="/Sorcery of Ice.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>3</manacost>
+ <type>Magical Action - Warlock Water</type>
+ <tablerow>1</tablerow>
+ <text>Suspend 2 (When you play this card from your hand,remove it with two Shift counters on it. At the beginning of the next Shift step, remove a Shift counter. When the last is removed, resolve the card.)
+
+Deals (Magic) damage to target Unit.</text>
+</card>
+<card>
+ <name>Sorcery of Thunders</name>
+ <set picURL="/Sorcery of Thunders.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>3</manacost>
+ <type>Magical Action - Warlock Electric</type>
+ <tablerow>1</tablerow>
+ <text>Suspend 2 (When you play this card from your hand,remove it with two Shift counters on it. At the beginning of the next Shift step, remove a Shift counter. When the last is removed, resolve the card.)
+
+Deals (Magic) damage to target Unit.</text>
+</card>
+<card>
+ <name>Soul Canibalism</name>
+ <set picURL="/Soul Canibalism.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>3</manacost>
+ <type>Support Action - Shaman</type>
+ <tablerow>1</tablerow>
+ <text>Target Character gains:
+“Whenever this Unit is dealt damage, it heals half of that amount to the Active Unit.” until it dies unless it already has it.</text>
+</card>
+<card>
+ <name>Summon Needle</name>
+ <set picURL="/Summon Needle.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>4</manacost>
+ <type>Support Action - Summoner</type>
+ <tablerow>1</tablerow>
+ <text>Create a Yokai Token Unit with 1 Max HP, it has:
+“At the beginning of each shift step deals 1 damage to every enemy Character”
+</text>
+</card>
+<card>
+ <name>Summoner’s Dwell</name>
+ <set picURL="/Summoner’s Dwell.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>5</manacost>
+ <type>Support Action - Summoner</type>
+ <tablerow>1</tablerow>
+ <text>For each Token Unit you control, create a copy of it.
+</text>
+</card>
+<card>
+ <name>Thoughts as Desserts</name>
+ <set picURL="/Thoughts as Desserts.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>7</manacost>
+ <type>Support Action - Shaman</type>
+ <tablerow>1</tablerow>
+ <text>For 6 turns, the Shaman recovers all mana spent by target Character.
+that Character loses (Half Magic) mana.</text>
+</card>
+<card>
+ <name>Time-Space Disturbance</name>
+ <set picURL="/Time-Space Disturbance.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>3</manacost>
+ <type>Support Action - Chronomage</type>
+ <tablerow>1</tablerow>
+ <text>Switch turn orders between two Characters owned by the same Player.
+
+You may play an aditional Action this turn.</text>
+</card>
+<card>
+ <name>Vortex</name>
+ <set picURL="/Vortex.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>3</manacost>
+ <type>Magical Action - Chronomage Dark</type>
+ <tablerow>1</tablerow>
+ <text>Suspend 2 (When you play this card from your hand,remove it with two Shift counters on it. At the beginning of the next Shift step, remove a Shift counter. When the last is removed, resolve the card.)
+Deals (Magic) damage to target Unit.</text>
+</card>
+<card>
+ <name>Walk with the Time</name>
+ <set picURL="/Walk with the Time.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>3</manacost>
+ <type>Support Action - Chronomage</type>
+ <tablerow>1</tablerow>
+ <text>Suspend 3 (When you play this card from your hand,remove it with three Shift counters on it. At the beginning of the next Shift step, remove a Shift counter. When the last is removed, resolve the card.)
+Target Character takes an aditional turn.</text>
+</card>
+<card>
+ <name>Water Spoils</name>
+ <set picURL="/Water Spoils.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>1</manacost>
+ <type>Support Action - Warlock</type>
+ <tablerow>1</tablerow>
+ <text>You may play Water Spoils as an additional Action if you played a Water Action card this turn.
+
+Target unit heals 2.</text>
+</card>
+<card>
+ <name>Welfare Spirits</name>
+ <set picURL="/Welfare Spirits.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>4</manacost>
+ <type>Support Action - Summoner</type>
+ <tablerow>1</tablerow>
+ <text>Create a Spirit Token Unit with 1 Max HP, it has:
+“At the beginning of each shift step heal 1 to every Character you control.”</text>
+</card>
+<card>
+ <name>Ad nauseam</name>
+ <set picURL="/Ad nauseam.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Mediator</type>
+ <tablerow>1</tablerow>
+ <text>Remove from the game target Utility, Equipment or Counterplay card. It’s owner adds 3 basic actions called Defensive Stance from outside of the game to his/her library.</text>
+</card>
+<card>
+ <name>Alive Grass</name>
+ <set picURL="/Alive Grass.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Magical Action - Geomage Earth</type>
+ <tablerow>1</tablerow>
+ <text>Deals (Magic) damage to target Unit.
+Flip 3 coins. Then if you get 3 o more coins won, that Unit loses his/her next turn.</text>
+</card>
+<card>
+ <name>Antidote</name>
+ <set picURL="/Antidote.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Chemist</type>
+ <tablerow>1</tablerow>
+ <text>Removes Poison from target Character.</text>
+</card>
+<card>
+ <name>Antique Runes Arquebus</name>
+ <set picURL="/Antique Runes Arquebus.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Gun</type>
+ <tablerow>1</tablerow>
+ <text>Whenever the attached Unit deals damage to a character, its owner removes the top card of its library.
+Melee Actions played with the attached Unit are now Ranged.</text>
+</card>
+<card>
+ <name>Arrow Rain</name>
+ <set picURL="/Arrow Rain.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Ranged Action - Samurai</type>
+ <tablerow>1</tablerow>
+ <text>Requires Bow attached to the Active unit.
+
+Deals (Half Power) damage to every enemy Unit.</text>
+</card>
+<card>
+ <name>Art of War</name>
+ <set picURL="/Art of War.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Melee Action - Knight</type>
+ <tablerow>1</tablerow>
+ <text>Remove target Equipment from the game.</text>
+</card>
+<card>
+ <name>Basic Attack</name>
+ <set picURL="/Basic Attack.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Melee Action - Any</type>
+ <tablerow>1</tablerow>
+ <text>Deals (Power) damage to target Unit.</text>
+</card>
+<card>
+ <name>Berserker’s Adze</name>
+ <set picURL="/Berserker’s Adze.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Axe</type>
+ <tablerow>1</tablerow>
+ <text>Damage dealt by Melee Actions played with the attached Unit is increased by 4.
+
+Whenever the attached Unit plays a Melee Action, flip a coin. If you lose all coins, cancel that Action.</text>
+</card>
+<card>
+ <name>Censor the Historics</name>
+ <set picURL="/Censor the Historics.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Mediator</type>
+ <tablerow>1</tablerow>
+ <text>Remove up to 3 cards from target player’s discard pile.</text>
+</card>
+<card>
+ <name>Charm Spell</name>
+ <set picURL="/Charm Spell.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Thief</type>
+ <tablerow>1</tablerow>
+ <text>Reveal the top 6 cards from your library. Target Unit gains charmed for 3 turns for each Thief Card revealed this way.
+
+Charm and Conquer may target Units from the opposite sex than the Active Unit only.</text>
+</card>
+<card>
+ <name>Cheapshot Revolver</name>
+ <set picURL="/Cheapshot Revolver.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Gun</type>
+ <tablerow>1</tablerow>
+ <text>Whenever the attached Unit plays an Action, it deals 1 damage to target Unit.</text>
+</card>
+<card>
+ <name>Chirijiraden, the Wicked</name>
+ <set picURL="/Chirijiraden the Wicked.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Dagger</type>
+ <tablerow>1</tablerow>
+ <text>Whenever Chirijiraden, the Wicked comes into play, it deals 1 damage to target Unit.
+
+Whenever attached Unit plays a Melee Action flip a coin, If you lose discard Chirijiraden, the Wicked.</text>
+</card>
+<card>
+ <name>Cobble Proyectile</name>
+ <set picURL="/Cobble Proyectile.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Ranged Action - Squire</type>
+ <tablerow>1</tablerow>
+ <text>Deals (Half Power) damage to target Unit.</text>
+</card>
+<card>
+ <name>Combat Dirk</name>
+ <set picURL="/Combat Dirk.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Dagger</type>
+ <tablerow>1</tablerow>
+ <text>Melee actions played with the attached Unit deals additional 1 damage.
+
+You may attach up to 2 Daggers to the attached Unit</text>
+</card>
+<card>
+ <name>Concentrated to the Soul</name>
+ <set picURL="/Concentrated to the Soul.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Ranged Action - Samurai</type>
+ <tablerow>1</tablerow>
+ <text>Requires Bow attached to the Active unit.
+
+Flip 3 coins, for each coin won, it deals (Half Power) Damage to target Unit. If all coins are missed, it deals (Half power) damage instead. This damage can’t be prevented.</text>
+</card>
+<card>
+ <name>Corito’s Barrier</name>
+ <set picURL="/Corito’s Barrier.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Lancer</type>
+ <tablerow>1</tablerow>
+ <text>The Lancer gains barrier for 12 turns.</text>
+</card>
+<card>
+ <name>Corrupted Journal</name>
+ <set picURL="/Corrupted Journal.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment</type>
+ <tablerow>1</tablerow>
+ <text>You may discard Corrupted Journal during your Action step as long as its still attached to a Character you control. if you do, target player puts the top 2 cards of its library on its discard pile.</text>
+</card>
+<card>
+ <name>Crushing Blow</name>
+ <set picURL="/Crushing Blow.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Melee Action - Shaman Samurai</type>
+ <tablerow>1</tablerow>
+ <text>Remove any number of Equipments attached to any Character you control.
+
+Deals damage (Half power) for each removed equipment to target Character.</text>
+</card>
+<card>
+ <name>Dash</name>
+ <set picURL="/Dash.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Melee Action - Squire </type>
+ <tablerow>1</tablerow>
+ <text>Deals (Power) damage to target Unit. This damage can’t be prevented.
+
+Can’t be canceled.</text>
+</card>
+<card>
+ <name>Defensive Stance</name>
+ <set picURL="/Defensive Stance.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Any</type>
+ <tablerow>1</tablerow>
+ <text>Incoming damage is halved for 6 turns.</text>
+</card>
+<card>
+ <name>Demonic Knife</name>
+ <set picURL="/Demonic Knife.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Magical Action - Samurai</type>
+ <tablerow>1</tablerow>
+ <text>Deals (Magic) damage to every enemy Character.</text>
+</card>
+<card>
+ <name>Diplomatics</name>
+ <set picURL="/Diplomatics.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Mediator</type>
+ <tablerow>1</tablerow>
+ <text>Flip a Coin, if you win enemy Counterplay cards can’t be triggered for 12 turns.</text>
+</card>
+<card>
+ <name>Draconic Hex</name>
+ <set picURL="/Draconic Hex.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Lancer</type>
+ <tablerow>1</tablerow>
+ <text>Target Character gains:
+“Whenever this Unit is dealt damage, receives additional damage (Half Magic) for each Hex counter on it.” unless it arealdy has it.
+
+Put a Hex counter on that Character.</text>
+</card>
+<card>
+ <name>Earth’s Blow</name>
+ <set picURL="/Earth’s Blow.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Melee Action - Monk Earth</type>
+ <tablerow>1</tablerow>
+ <text>Deals (Power -2) damage for each card called Earth’s Blow in your discard pile to target Unit.</text>
+</card>
+<card>
+ <name>Enforced Decree</name>
+ <set picURL="/Enforced Decree.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Mediator</type>
+ <tablerow>1</tablerow>
+ <text>Next time an Action is played with target Character, its owner chooses one:
+-You search his/her library for a card, then remove that card and the Action card played from the game. Then he/she Shuffles his/her library.
+-Remove the top 4 cards from the top of that Player’s library from the game.</text>
+</card>
+<card>
+ <name>Essence’s Kiss</name>
+ <set picURL="/Essence’s Kiss.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Chemist</type>
+ <tablerow>1</tablerow>
+ <text>Removes Frog from target Character.</text>
+</card>
+<card>
+ <name>Ether Cup</name>
+ <set picURL="/Ether Cup.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Chemist</type>
+ <tablerow>1</tablerow>
+ <text>Target Character recovers (Double Magic) mana.</text>
+</card>
+<card>
+ <name>Evha’s Curse</name>
+ <set picURL="/Evha’s Curse.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Dagger</type>
+ <tablerow>1</tablerow>
+ <text>Poison deals 1 additional damage to enemy Characters.
+
+Dealing damage with a Melee Action played with the attached Unit causes Poison on the Character that was dealt damage this way.</text>
+</card>
+<card>
+ <name>Eye Cleaning Drop</name>
+ <set picURL="/Eye Cleaning Drop.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Chemist</type>
+ <tablerow>1</tablerow>
+ <text>Removes Blind from target Character.</text>
+</card>
+<card>
+ <name>Field Support</name>
+ <set picURL="/Field Support.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Squire</type>
+ <tablerow>1</tablerow>
+ <text>Search in your library for an Equipment card and put it into play attached to target Character. Then Shuffle your library.
+
+You may play Field Support as an additional Action if you played Basic Attack this turn.</text>
+</card>
+<card>
+ <name>Focus</name>
+ <set picURL="/Focus.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Squire</type>
+ <tablerow>1</tablerow>
+ <text>Increase target character’s Power by 1.</text>
+</card>
+<card>
+ <name>From Piercing to Shredding</name>
+ <set picURL="/From Piercing to Shredding.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Lancer</type>
+ <tablerow>1</tablerow>
+ <text>Target Character gains:
+“Whenever this Unit is dealt damage, receives additional damage (Half Power) for each Shred counter on it.” unless it arealdy has it.
+
+Put a Shred counter on that Character.</text>
+</card>
+<card>
+ <name>Gale Slit</name>
+ <set picURL="/Gale Slit.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Magical Action - Geomage Wind</type>
+ <tablerow>1</tablerow>
+ <text>Deals (Magic) damage to target Unit.
+Flip 2 coins. Then if you get 1 coin won  remove target Equipment from the game. If you get 3 o more coins won Gale Slit deals (Magic) damage to that Unit.</text>
+</card>
+<card>
+ <name>Go for the eyes</name>
+ <set picURL="/Go for the eyes.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Melee Action - Archer </type>
+ <tablerow>1</tablerow>
+ <text>Target Character gains blind.</text>
+</card>
+<card>
+ <name>Gorgon’s Dust</name>
+ <set picURL="/Gorgon’s Dust.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Chemist</type>
+ <tablerow>1</tablerow>
+ <text>Removes Petrified from target Character.</text>
+</card>
+<card>
+ <name>Grace Rain</name>
+ <set picURL="/Grace Rain.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Samurai</type>
+ <tablerow>1</tablerow>
+ <text>Characters you control heals (Magic).</text>
+</card>
+<card>
+ <name>Grand Trick of the Hidden Fork</name>
+ <set picURL="/Grand Trick of the Hidden Fork.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Melee Action - Thief Squire</type>
+ <tablerow>1</tablerow>
+ <text>Deals damage (Power) to target unit.
+
+Whenever a Melee action played with a Thief or Squire deals damage, you may discard Trick of the Hidden Fork from your hand, If you do, it deals 2 damage to target Unit.</text>
+</card>
+<card>
+ <name>Hallowed Scepter</name>
+ <set picURL="/Hallowed Scepter.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Scepter</type>
+ <tablerow>1</tablerow>
+ <text>If attached Unit would deal damage with melee actions, it heals that amount instead.
+
+Attached Unit’s Power is increased by 2.</text>
+</card>
+<card>
+ <name>Healing Potion</name>
+ <set picURL="/Healing Potion.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Chemist</type>
+ <tablerow>1</tablerow>
+ <text>Target Character heals (Double Magic).</text>
+</card>
+<card>
+ <name>Igneous Will</name>
+ <set picURL="/Igneous Will.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Magical Action - Geomage Fire</type>
+ <tablerow>1</tablerow>
+ <text>Deals (Magic) damage to target Unit.
+Flip 2 coins. Then if you get 1 coin won, River Stream deals (Magic) damage to that Unit. If you get 3 o more coins won, that Unit gains sleep for 12 turns.</text>
+</card>
+<card>
+ <name>Judgment</name>
+ <set picURL="/Judgment.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Melee Action - Knight</type>
+ <tablerow>1</tablerow>
+ <text>You may discard a Knight Action card from your hand, if you do return Judgment from your discard pile to your hand.
+
+Deals (Power) damage to target Unit.</text>
+</card>
+<card>
+ <name>Looter’s Cunning</name>
+ <set picURL="/Looter’s Cunning.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Thief</type>
+ <tablerow>1</tablerow>
+ <text>Remove target Counterplay card from the game.
+
+If you control 1 Utility or more, target Character gains poison.</text>
+</card>
+<card>
+ <name>Lucky-runed Dagger</name>
+ <set picURL="/Lucky-runed Dagger.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Dagger</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you would flip a coin, you may remove Lucky-runed Dagger. if you do, you may flip an additional coin.</text>
+</card>
+<card>
+ <name>Mace of Faith</name>
+ <set picURL="/Mace of Faith.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Hammer</type>
+ <tablerow>1</tablerow>
+ <text>Attached Unit’s Magic is increased by 1.
+Damage dealt by magical Actions to the attached unit is reduced by 1.</text>
+</card>
+<card>
+ <name>Magma Flows</name>
+ <set picURL="/Magma Flows.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Magical Action - Geomage Fire</type>
+ <tablerow>1</tablerow>
+ <text>Deals (Magic) damage to target Unit.
+
+Flip 3 coins. Then if you get 4 or more coin wons, that Unit dies.</text>
+</card>
+<card>
+ <name>Makeshift Explosive</name>
+ <set picURL="/Makeshift Explosive.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment</type>
+ <tablerow>1</tablerow>
+ <text>You may remove Makeshift Explosive from the game during your Action step, if you do it deals 1 damage to 4 Units at random.</text>
+</card>
+<card>
+ <name>Militar Mastery</name>
+ <set picURL="/Militar Mastery.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Melee Action - Knight</type>
+ <tablerow>1</tablerow>
+ <text>Militar Mastery can’t trigger Counterplay cards.
+
+Remove target Counter card from the game.</text>
+</card>
+<card>
+ <name>Modern Musket</name>
+ <set picURL="/Modern Musket.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Gun</type>
+ <tablerow>1</tablerow>
+ <text>Damage dealt by Ranged Actions played with the attached Unit can’t be reduced.
+
+Melee Actions played with the attached Unit are now Ranged.</text>
+</card>
+<card>
+ <name>Multiple Slash</name>
+ <set picURL="/Multiple Slash.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Melee Action - Archer</type>
+ <tablerow>1</tablerow>
+ <text>Deals (Half Power) damage to every enemy Character and up to one enemy Invocation.</text>
+</card>
+<card>
+ <name>Mutilate</name>
+ <set picURL="/Mutilate.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Melee Action - Knight Lancer</type>
+ <tablerow>1</tablerow>
+ <text>Reduce target Unit’s max life by (Half Power). If the Unit is already hurt, then it deals aditional        (Half Power) damage.</text>
+</card>
+<card>
+ <name>Needle Trick</name>
+ <set picURL="/Needle Trick.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Melee Action - Thief</type>
+ <tablerow>1</tablerow>
+ <text>Target Character gains poison. 
+
+Draw a card.
+
+You may discard an equipment card from your hand, if you do you can play an additional action this turn.</text>
+</card>
+<card>
+ <name>Osafune, The Hungry</name>
+ <set picURL="/Osafune The Hungry.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Dagger</type>
+ <tablerow>1</tablerow>
+ <text>Whenever Osafune, The Hungry comes into play, target Character loses 1 mana.
+whevener a character is dealt damage with Melee Actions played with the attached Unit, it loses 2 mana.</text>
+</card>
+<card>
+ <name>Osafune’s Cry</name>
+ <set picURL="/Osafune’s Cry.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Magical Action - Samurai</type>
+ <tablerow>1</tablerow>
+ <text>Requires Osafune, The Hungry attached to the Active Unit.
+
+Deals 1 damage to every enemy Character, then every character that was dealt damage this way loses (Magic) mana.</text>
+</card>
+<card>
+ <name>Piercing Crossbow</name>
+ <set picURL="/Piercing Crossbow.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Crossbow</type>
+ <tablerow>1</tablerow>
+ <text>Damage dealt by Ranged Actions played with the attached Unit is decresed by 2, but it can’t be prevented.
+
+Basic Attack cards played with attached Unit are now Ranged Actions instead of Melee.</text>
+</card>
+<card>
+ <name>Repeated Strike</name>
+ <set picURL="/Repeated Strike.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Melee Action - Monk</type>
+ <tablerow>1</tablerow>
+ <text>Flip 4 coins, for each coin won Repeated Strike deals (Half Power) damage to target Unit.</text>
+</card>
+<card>
+ <name>Restore</name>
+ <set picURL="/Restore.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Squire</type>
+ <tablerow>1</tablerow>
+ <text>Remove all abnormal status from target Character.</text>
+</card>
+<card>
+ <name>Restriction by law</name>
+ <set picURL="/Restriction by law.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Mediator</type>
+ <tablerow>1</tablerow>
+ <text>Search Target player’s library for up to 1 card and remove it from the game. Then that players adds 3 basic actions called Defensive Stance from outside of the game to his/her library. Then that player Shuffles his/her library.</text>
+</card>
+<card>
+ <name>Revive</name>
+ <set picURL="/Revive.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Monk</type>
+ <tablerow>1</tablerow>
+ <text>Revive target Character, healing it an amount equal to the double of its Magic</text>
+</card>
+<card>
+ <name>River Stream</name>
+ <set picURL="/River Stream.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Magical Action - Geomage Water</type>
+ <tablerow>1</tablerow>
+ <text>Deals (Magic) damage to target Unit.
+Flip 2 coins. Then if you get 1 coin won, River Stream deals (Magic) damage to that Unit. If you get 3 o more coins won, that Unit gains frog for 12 turns.</text>
+</card>
+<card>
+ <name>Rod of Eternity</name>
+ <set picURL="/Rod of Eternity.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Rod</type>
+ <tablerow>1</tablerow>
+ <text>Whenever the attached Unit plays a Support or Magical Action, put a Eternity Counter on Rod of Eternity, then it recovers mana equal to the half of the amount of Eternity Counters on Rod of Eternity.</text>
+</card>
+<card>
+ <name>The Rod of Tomorrow</name>
+ <set picURL="/The Rod of Tomorrow.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Rod</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of attached Unit equipment step, draw a card.
+
+During your Action step, you may remove The Rod of Tomorrow from the game. If you do draw a card.</text>
+</card>
+<card>
+ <name>Sabotage</name>
+ <set picURL="/Sabotage.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Mediator</type>
+ <tablerow>1</tablerow>
+ <text>Look at the top 10 cards of target player’s library, then you may remove up to 3 cards from there from the game. Then that player shuffles his/her library.</text>
+</card>
+<card>
+ <name>Sculpt</name>
+ <set picURL="/Sculpt.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Magical Action - Geomage Earth</type>
+ <tablerow>1</tablerow>
+ <text>Deals (Magic) damage to target Unit.
+
+Flip 3 coins. Then if you get 2 coins or more won, Sculpt deals (Magic) damage to that Unit. If you get 4 o more coins won, that Unit gains petrified.</text>
+</card>
+<card>
+ <name>Shout of Chirijiraden</name>
+ <set picURL="/Shout of Chirijiraden.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Magical Action - Samurai</type>
+ <tablerow>1</tablerow>
+ <text>Requires Chirijiraden, the Wicked attached to the Active Unit.
+
+Deals (Magic) damage to every enemy Character for each Dagger Attached to the Active Unit. then discard all Chirijiraden, the Wicked Attached to the Active Unit.</text>
+</card>
+<card>
+ <name>Spiked Gear</name>
+ <set picURL="/Spiked Gear.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Knight </type>
+ <tablerow>1</tablerow>
+ <text>Reveal the top 8 cards from your library, for each Defensive Stance revealed this way Spiked Gear deals 1 damage to target unit. This damage can’t be prevented or redirected. 
+
+Can’t be canceled.</text>
+</card>
+<card>
+ <name>Spirit Rod</name>
+ <set picURL="/Spirit Rod.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Rod</type>
+ <tablerow>1</tablerow>
+ <text>Attached Unit’s Magic is increased by 1.
+Damage dealt by Magical Actions played with the attached Unit is increased by 1.</text>
+</card>
+<card>
+ <name>Spirit Test</name>
+ <set picURL="/Spirit Test.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Melee Action - Samurai Geomage</type>
+ <tablerow>1</tablerow>
+ <text>Deals (Magic) damage to target Character, then reduce it’s Max mana by half of that amount.</text>
+</card>
+<card>
+ <name>Strengh of Will</name>
+ <set picURL="/Strengh of Will.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Monk Knight</type>
+ <tablerow>1</tablerow>
+ <text>Active Unit gains (Half Power) Max HP. If the Active Unit is not hurt, you may play an additional Support Action this turn.</text>
+</card>
+<card>
+ <name>Strike Mind</name>
+ <set picURL="/Strike Mind.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Melee Action - Knight </type>
+ <tablerow>1</tablerow>
+ <text>Reduce target character’s Magic by 1.</text>
+</card>
+<card>
+ <name>Strike Twice</name>
+ <set picURL="/Strike Twice.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Melee Action - Archer Thief </type>
+ <tablerow>1</tablerow>
+ <text>Deals (Half Power) damage to target unit.
+
+Deals (Half Power) damage to target unit.</text>
+</card>
+<card>
+ <name>Study of Mastery</name>
+ <set picURL="/Study of Mastery.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Chemist</type>
+ <tablerow>1</tablerow>
+ <text>You may Copy any Action card removed from the game and play it without paying it’s mana cost.
+Remove Study of Mastery from the game.</text>
+</card>
+<card>
+ <name>Swep Strike</name>
+ <set picURL="/Swep Strike.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Melee Action - Lancer</type>
+ <tablerow>1</tablerow>
+ <text>Deals (Half Power) damage to every enemy Character and up to one Token.</text>
+</card>
+<card>
+ <name>Task bag</name>
+ <set picURL="/Task bag.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Bag</type>
+ <tablerow>1</tablerow>
+ <text>You may attached up to 2 equipments to the attached Unit as long as only 1 of them is a Bag.
+
+During your Action step, you may remove task bag from the game. If you do, search your library for an actionc ard that shares type with the attached Unit.</text>
+</card>
+<card>
+ <name>Teach the Excel</name>
+ <set picURL="/Teach the Excel.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Mediator Chemist</type>
+ <tablerow>1</tablerow>
+ <text>Search your library for an Action that shares type with the Active Unit then play it. If you do, remove it and Teach the Excel from the game when it resolves. Then Shuffle your library.</text>
+</card>
+<card>
+ <name>Teras Bow</name>
+ <set picURL="/Teras Bow.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Bow</type>
+ <tablerow>1</tablerow>
+ <text>Damage dealt by Ranged Actions played with the attached Unit is increased by 2.
+
+Melee Actions played with the attached Unit are now Ranged.</text>
+</card>
+<card>
+ <name>Treacherous Blow</name>
+ <set picURL="/Treacherous Blow.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Melee Action - Thief</type>
+ <tablerow>1</tablerow>
+ <text>If you control a Thief, you may play this card as it was the Active Unit. If you do, switch turns between Active Unit and that Thief, the Thief becomes the Active Unit for the rest of this turn.
+
+Deals (Power) Damage to target Unit.</text>
+</card>
+<card>
+ <name>Valheim’s Militar Sword</name>
+ <set picURL="/Valheim’s Militar Sword.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Sword</type>
+ <tablerow>1</tablerow>
+ <text>Attached Unit’s Power is increased by 2.</text>
+</card>
+<card>
+ <name>Valheim’s Reach of the war</name>
+ <set picURL="/Valheim’s Reach of the war.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Spear</type>
+ <tablerow>1</tablerow>
+ <text>Attached Unit’s Power is increased by 1.
+
+Melee actions played with the attached Unit wont trigger counterplay cards as Melee.</text>
+</card>
+<card>
+ <name>Valheim’s Shield</name>
+ <set picURL="/Valheim’s Shield.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Shield</type>
+ <tablerow>1</tablerow>
+ <text>Damage dealt by Melee or Ranged Actions to the attached Unit are reduced by 2</text>
+</card>
+<card>
+ <name>Venemous Edge</name>
+ <set picURL="/Venemous Edge.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Melee Action - Archer</type>
+ <tablerow>1</tablerow>
+ <text>Deals (Half Power) damage to target Unit, it gains poison.</text>
+</card>
+<card>
+ <name>Vitality Recover</name>
+ <set picURL="/Vitality Recover.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Monk</type>
+ <tablerow>1</tablerow>
+ <text>Target Character heals an amount equal to its Power. Then it recovers an amount of mana equal to its Magic.</text>
+</card>
+<card>
+ <name>Weak Spot</name>
+ <set picURL="/Weak Spot.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Melee Action - Archer</type>
+ <tablerow>1</tablerow>
+ <text>Suspend Weak Spot undefinitely.
+At the beginning of each Shift step flip 3 coins, for each coin lost put a Charge counter on Weak Spot, then if Weak Spot has 6 charge counters or more resolve it.
+
+Deals (Half power) damage to target unit for each charge counter on Weak Spot.</text>
+</card>
+<card>
+ <name>Wild Sparks</name>
+ <set picURL="/Wild Sparks.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Support Action - Warlock</type>
+ <tablerow>1</tablerow>
+ <text>You may play Wild Sparks as an additional Action if you played a Water Action card this turn.
+
+Target unit recovers 1 Mana.</text>
+</card>
+<card>
+ <name>Wind wave</name>
+ <set picURL="/Wind wave.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Magical Action - Monk Wind</type>
+ <tablerow>1</tablerow>
+ <text>Deals 6 damage to target Unit.</text>
+</card>
+<card>
+ <name>Wit’s Bane</name>
+ <set picURL="/Wit’s Bane.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Equipment - Sword</type>
+ <tablerow>1</tablerow>
+ <text>Whenever a Unit spends mana, Wit’s Bane deals 2 damage to it.</text>
+</card>
+<card>
+ <name>Absolute Mastery</name>
+ <set picURL="/Absolute Mastery.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Geomage</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: The Geomage is being targeted by a Magical Action.
+
+Flip 2 coins, If you get 2 coins won you gain control of the triggering Action. You may choose new targets for it.</text>
+</card>
+<card>
+ <name>Autopotion</name>
+ <set picURL="/Autopotion.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Chemist</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: Any damage dealt to the Chemist by an Action.
+
+The Chemist heals (Double Magic).</text>
+</card>
+<card>
+ <name>By Law Or By Force</name>
+ <set picURL="/By Law Or By Force.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Mediator</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: Any damage dealt to the mediator by any source other than Actions.
+
+You may copy any Counterplay card other than By Law Or By Force that has been removed from the game without meeting its Trigger condition.</text>
+</card>
+<card>
+ <name>Consequences</name>
+ <set picURL="/Consequences.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Chronomage</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: After the Chronomage received Damage by a Melee or Support Action.
+
+Target Counterplay or Equipment attached to the Active Unit is discarded from play.</text>
+</card>
+<card>
+ <name>Consume Own Thoughts</name>
+ <set picURL="/Consume Own Thoughts.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Warlock</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: After the Warlock receives any amount of damage by a single source.
+
+You may remove X Action cards from your discard pile, if you do the Warlock heals (half X). Add to your deck (Half X) cards called Defensive Stance from outside of the game and Shuffle your library.</text>
+</card>
+<card>
+ <name>Counter attack</name>
+ <set picURL="/Counter attack.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Monk</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: After the Monk receives damage from a Melee Action.
+
+Deals damage (Power) to the Active Unit.</text>
+</card>
+<card>
+ <name>Counter Magic</name>
+ <set picURL="/Counter Magic.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Warlock</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: After the Warlock receives damage from a Magical Action.
+
+Reveal the top 5 cards from your library, you may play a Warlock Action among the revealed cards without paying it’s mana cost. Shuffle your library.</text>
+</card>
+<card>
+ <name>Dawn of Glory</name>
+ <set picURL="/Dawn of Glory.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Priest</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: Any damage dealt to any Character you control.
+
+Target Character heals (Magic).</text>
+</card>
+<card>
+ <name>Disrupting Decree</name>
+ <set picURL="/Disrupting Decree.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Mediator</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: A Support Action is played.
+
+Cancel the triggering Action unless his/her controller removes the top 3 cards of his/her library.</text>
+</card>
+<card>
+ <name>Emergency Quick</name>
+ <set picURL="/Emergency Quick.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Chronomage</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: The Chronomage entering Critical State after receiving any damage.
+
+The Chronomage takes an additional turn after this one.</text>
+</card>
+<card>
+ <name>Fallen’s Aid</name>
+ <set picURL="/Fallen’s Aid.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Shaman</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: Any damage dealt to the Shaman by any source other than Actions.
+Attach an equipment card from the discard pile to the Shaman.</text>
+</card>
+<card>
+ <name>interception shot</name>
+ <set picURL="/interception shot.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Archer</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: A Ranged Action is played.
+
+Cancel triggering Action.</text>
+</card>
+<card>
+ <name>Javelin Harpoon</name>
+ <set picURL="/Javelin Harpoon.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Lancer</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: The Lancer is being targeted by Support or Ranged Action.
+
+Discard an Equipment attached to the Lancer. If you do, Javelin Harpoon deals 2 damage to the Active Unit.</text>
+</card>
+<card>
+ <name>Mana Feast</name>
+ <set picURL="/Mana Feast.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Shaman</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: An enemy spent mana.
+The Shaman recovers an amount of mana equal to the triggering mana spent.</text>
+</card>
+<card>
+ <name>Martial Artist</name>
+ <set picURL="/Martial Artist.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Monk</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: The Monk is being targeted by Basic Attack.
+
+Deals damage (Power) to the Active Unit.</text>
+</card>
+<card>
+ <name>Must Insist</name>
+ <set picURL="/Must Insist.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Lancer</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: The Lancer entering Critical State after receiving any damage.
+
+The Lancer gains reraise for 12 turns.</text>
+</card>
+<card>
+ <name>Plea</name>
+ <set picURL="/Plea.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Priest</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: Any damage dealt to the Priest by a Magical Action.
+Reveal the top 10 cards from your library, you may play a Priest Action among the revealed cards without paying it’s mana cost. Shuffle your library.</text>
+</card>
+<card>
+ <name>Power Surge</name>
+ <set picURL="/Power Surge.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Geomage</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: After the Geomage is dealt damage by a Melee or Ranged Action.
+
+Flip a coin, if you win the Flip increase the geomage’s Power by 1.</text>
+</card>
+<card>
+ <name>Quicker Hands</name>
+ <set picURL="/Quicker Hands.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Thief</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: The Thief is being targeted by Melee Action.
+
+Take control of an Equipment attached to the Active Unit and attach it to the Thief.</text>
+</card>
+<card>
+ <name>Safeguard</name>
+ <set picURL="/Safeguard.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Knight</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: Ranged or Melee Action is targeting a Character you control other than the Knight.
+
+The knight receives all the damage that triggering action would do instead of its original target. </text>
+</card>
+<card>
+ <name>Sharp Gasp</name>
+ <set picURL="/Sharp Gasp.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Samurai</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: The Samurai is being targeted by a Melee Action.
+Cancel the triggering Action, then flip a coin. If you win the flip, you may set Sharp Gasp on the Samurai instead of putting it into the discard pile.</text>
+</card>
+<card>
+ <name>Smoke Curtain</name>
+ <set picURL="/Smoke Curtain.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Archer</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: The Archer is being targeted by Ranged Action
+
+Active Units owner flips a coin. If he/she loses the flip, cancel the action.</text>
+</card>
+<card>
+ <name>Soul and Body Balance</name>
+ <set picURL="/Soul and Body Balance.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Summoner</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: Before the Summoner receives any damage from a single source.
+
+Instead of receiving any damage from the triggering source, the Summoner loses that amount of mana.</text>
+</card>
+<card>
+ <name>Sudden Summon</name>
+ <set picURL="/Sudden Summon.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Summoner</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: After the Summoner receives damage from a Magical Action
+
+Reveal the top 8 cards from your library, you may play a Summoner Action among the revealed cards without paying it’s mana cost. Shuffle your library.</text>
+</card>
+<card>
+ <name>Superior Defense</name>
+ <set picURL="/Superior Defense.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Knight</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: After The Knight receives any amount of damage by a single source.
+
+Look at the top 5 cards of your library, you may remove a card called Defensive Stance, if you do, the Knight heals (Half Power).</text>
+</card>
+<card>
+ <name>Tackle</name>
+ <set picURL="/Tackle.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Squire</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: The Squire is being targeted by a Melee Action.
+
+Deals (Half Power) damage to the Active Unit. This damage can’t be prevented and this action can’t be canceled after triggered.</text>
+</card>
+<card>
+ <name>Through Flesh and Bone</name>
+ <set picURL="/Through Flesh and Bone.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Samurai</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: The Samurai is deal damage by a Magic or Ranged Action.
+Flip a Coin, if you win the flip, the Samurai deals an amount damage to the Active Unit equal to the samurai’s missing HP.</text>
+</card>
+<card>
+ <name>Timelines Manipulation</name>
+ <set picURL="/Timelines Manipulation.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Chronomage</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: After The Chronomage received any amount of damage by a single source.
+
+Choose up to X cards from a single discard pile and put them on the bottom of its owner library, where X is the amount of triggering damage.</text>
+</card>
+<card>
+ <name>Warzone Study</name>
+ <set picURL="/Warzone Study.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Chemist</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: Any damage dealt to the Chemist.
+
+Look at the top 3 cards of each library, then you may put any of them in the bottom of their owner’s library, then return the rest in any order.</text>
+</card>
+<card>
+ <name>Youthful’s trap</name>
+ <set picURL="/Youthful’s trap.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Counterplay - Thief</type>
+ <tablerow>1</tablerow>
+ <text>Trigger: The thief is being targeted by Ranged Action.
+
+The Active Unit gains poison. If the active Unit already had Poison, Youthful’s Trap deals (Half Power) damage to it.</text>
+</card>
+<card>
+ <name>
+Spiritual Cannibalism</name>
+ <set picURL="/
+Spiritual Cannibalism.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Utility - Summoner</type>
+ <tablerow>1</tablerow>
+ <text>At the end of each of the attached Unit’s turns, you may sacrifice an Invocation Token you control. If you do, the attached unit recovers (Magic) mana and increase target Invocation Token you control Max HP by 1.</text>
+</card>
+<card>
+ <name>
+Treasure Hunter</name>
+ <set picURL="/
+Treasure Hunter.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Utility - Thief</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of attached Unit’s Action step draw 1 card, then discard 1 card from your hand.
+
+Whenever an enemy Character enters Critical State, you may take control of an Equipment owned by an opponent. If you do, attach it to the attached Unit and remove Treasure Hunter from the game.</text>
+</card>
+<card>
+ <name>Affinity for War</name>
+ <set picURL="/Affinity for War.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Utility - Lancer</type>
+ <tablerow>1</tablerow>
+ <text>Attached Unit can equip Spear.
+
+During attached Unit’s Equip step, you may remove Affinity for War from the (the: Attach to target step, you may remove Affinity for War from you control. Equip only as a sorcery.) game. If you do, choose 2 cards that were removed from the game and Shuffle them in your library. Then draw 1 card, then discard a card.</text>
+</card>
+<card>
+ <name>Battle Formation</name>
+ <set picURL="/Battle Formation.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Utility - Knight</type>
+ <tablerow>1</tablerow>
+ <text>Damage dealt to the attached Unit by Ranged and Melee Actions is reduced by 1.
+
+At the beginning of the Counterplay step draw 1 card, then discard a card from your hand.</text>
+</card>
+<card>
+ <name>Bishop’s Autorithy</name>
+ <set picURL="/Bishop’s Autorithy.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Utility - Priest</type>
+ <tablerow>1</tablerow>
+ <text>Attached Unit can equip Scepter.
+
+At the beginning of attached Unit’s Equip step you may search your library for a Scepter Equipment card and put is aside, suffle your library then put that card on top of it (it: Attach to target step you may search your library for a Scepter Equipment card and put is aside, suffle your library then put that card on top of you control. Equip only as a sorcery.).</text>
+</card>
+<card>
+ <name>Browbeat Diplomat</name>
+ <set picURL="/Browbeat Diplomat.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Utility - Mediator</type>
+ <tablerow>1</tablerow>
+ <text>Attached Unit can equip Gun.
+Whenever a card owned by an opponent is removed from the game, if the attached Unit has a Gun equipment attached to it, you may sacrifice Browbeat Diplomat. If you do, attached Unit deals 1 damage to target Unit.</text>
+</card>
+<card>
+ <name>Extreme Rapture</name>
+ <set picURL="/Extreme Rapture.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Utility - Samurai</type>
+ <tablerow>1</tablerow>
+ <text>Whenever attached Unit would deal an amount of damage by a Melee Action, you may flip 2 coins. if you get 2 or more coins won double that amount and remove Extreme Rapture from the game.</text>
+</card>
+<card>
+ <name>Infinite Insight</name>
+ <set picURL="/Infinite Insight.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Utility - Shaman</type>
+ <tablerow>1</tablerow>
+ <text>You may look at the top of each player’s library.
+
+During your Counterplay step, you may remove Seer’s wisdom from the game. If you do, each player shuffles it’s library.</text>
+</card>
+<card>
+ <name>Maintenance</name>
+ <set picURL="/Maintenance.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Utility - Chemist</type>
+ <tablerow>1</tablerow>
+ <text>Equipments you control cant be destroyed, removed from the game or taken control by your opponents.
+You may play Utility and Equipment cards on any Unit you control during your turns.</text>
+</card>
+<card>
+ <name>Muscle Enhacement</name>
+ <set picURL="/Muscle Enhacement.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Utility - Geomage</type>
+ <tablerow>1</tablerow>
+ <text>Melee damage dealt by the attached Unit is increased by 2.</text>
+</card>
+<card>
+ <name>Overwhelming Runes</name>
+ <set picURL="/Overwhelming Runes.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Utility - Warlock</type>
+ <tablerow>1</tablerow>
+ <text>Magical damage dealt by the attached Unit is increased by 3.
+
+Whenever the attached Unit deals damage, it deals 1 damage to itself.
+
+Draw 1 card less at the beginning of the attached Unit’s turn.</text>
+</card>
+<card>
+ <name>Path of Dedication</name>
+ <set picURL="/Path of Dedication.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Utility - Monk</type>
+ <tablerow>1</tablerow>
+ <text>Attached Unit heals 3 at the end of each of its turns.</text>
+</card>
+<card>
+ <name>Primal Skills</name>
+ <set picURL="/Primal Skills.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Utility - Squire</type>
+ <tablerow>1</tablerow>
+ <text>Attached Unit can equip Axe.
+
+During attached Unit’s Action step, you may remove Primal Skills from the game.
+If you do, the next time you would Flip a coin due to an Axe hability, you Flip an additional Coin.</text>
+</card>
+<card>
+ <name>Strategy In Deep</name>
+ <set picURL="/Strategy In Deep.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Utility - Archer</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of attached Unit’s turn, you may search your library for a card and remove it from the game.
+
+During attached Unit’s Equip step, if the attached Unit is (is: Attach to target step, if the attached Unit you control. Equip only as a sorcery.) in Critical State, you may sacrifice Strategy In Deep. If you do, search your library for a card and put it on top of your library.</text>
+</card>
+<card>
+ <name>Time Transgressor</name>
+ <set picURL="/Time Transgressor.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Utility - Chronomage</type>
+ <tablerow>1</tablerow>
+ <text>Whenever attached Unit plays an Action with Suspend, lower the Suspend value by 1.</text>
+</card>
+<card>
+ <name>Toxic Tossing</name>
+ <set picURL="/Toxic Tossing.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Utility - Chemist</type>
+ <tablerow>1</tablerow>
+ <text>You may attach Toxic Tossing to an enemy Character as you paly it. If you do, its owner takes control of Toxic Tossing.
+
+Attached Unit can’t activate Counterplay cards.
+Whenever attached Unit is dealt damage by a Melee Action, it deals 1 damage to the Active Unit.</text>
+</card>
+<card>
+ <name>Trascend</name>
+ <set picURL="/Trascend.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Utility - Shaman</type>
+ <tablerow>1</tablerow>
+ <text>Attached Unit recovers 2 mana at the end of each of its turns.</text>
+</card>
+<card>
+ <name>Weapon Guard</name>
+ <set picURL="/Weapon Guard.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Utility - Knight</type>
+ <tablerow>1</tablerow>
+ <text>Attached Unit can equip Shield.
+
+During attached Unit’s Equip step, you may discard an equipment attached to the (the: Attach to target step, you may discard an equipment attached to you control. Equip only as a sorcery.) attached Unit. If you do, seach your library for a Shield Equipment and attach it to the attached Unit.</text>
+</card>
+<card>
+ <name> Mistical Priest</name>
+ <set picURL="/ Mistical Priest.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Male Priest</type>
+ <tablerow>1</tablerow>
+ <text>Power: 4
+Magic: 10
+
+Equipment: Scepter, Hammer, Shield.</text>
+</card>
+<card>
+ <name> Mistical Priestess</name>
+ <set picURL="/ Mistical Priestess.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Female Priest</type>
+ <tablerow>1</tablerow>
+ <text>Power: 4
+Magic: 10
+
+Equipment: Scepter, Hammer, Shield.</text>
+</card>
+<card>
+ <name>Balduin Fist-Man</name>
+ <set picURL="/Balduin Fist-Man.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Male Monk</type>
+ <tablerow>1</tablerow>
+ <text>Power: 8
+Magic: 4
+
+Equipment: -.</text>
+</card>
+<card>
+ <name>Balduin Fist-Woman</name>
+ <set picURL="/Balduin Fist-Woman.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Female Monk</type>
+ <tablerow>1</tablerow>
+ <text>Power: 8
+Magic: 4
+
+Equipment: -.</text>
+</card>
+<card>
+ <name>Benefadre Schollar</name>
+ <set picURL="/Benefadre Schollar.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Male Chemist</type>
+ <tablerow>1</tablerow>
+ <text>Power: 3
+Magic: 3
+
+Chemist can play up to 2 Actions per turn.
+
+Equipment: Bag, Hammer, Dagger, Gun.</text>
+</card>
+<card>
+ <name>Capitol Civil Mediator</name>
+ <set picURL="/Capitol Civil Mediator.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Female Mediator</type>
+ <tablerow>1</tablerow>
+ <text>Power: 4
+Magic: 4
+
+Equipment: Dagger, Crossbow, Gun.</text>
+</card>
+<card>
+ <name>Capitol Oracle</name>
+ <set picURL="/Capitol Oracle.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Female Shaman</type>
+ <tablerow>1</tablerow>
+ <text>Power: 3
+Magic: 8
+
+Basic Attack playeds with Benefadre’s oracle deals 2 additional damage.
+
+Equipment: Scepter, Hammer, Dagger, Rod.</text>
+</card>
+<card>
+ <name>Capitol War Mediator</name>
+ <set picURL="/Capitol War Mediator.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Male Mediator</type>
+ <tablerow>1</tablerow>
+ <text>Power: 4
+Magic: 4
+
+Equipment: Dagger, Crossbow, Gun.</text>
+</card>
+<card>
+ <name>Cold Steel Robber</name>
+ <set picURL="/Cold Steel Robber.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Male Thief</type>
+ <tablerow>1</tablerow>
+ <text>Power: 6
+Magic: 4
+
+Equipment: Sword, Dagger, Crossbow.</text>
+</card>
+<card>
+ <name>Drake Order Warrior</name>
+ <set picURL="/Drake Order Warrior.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Female Lancer</type>
+ <tablerow>1</tablerow>
+ <text>Power: 6
+Magic: 4
+
+Equipment: Sword, Dagger, Shield, Spear.</text>
+</card>
+<card>
+ <name>Elemental Berserk Mage</name>
+ <set picURL="/Elemental Berserk Mage.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Male Geomage</type>
+ <tablerow>1</tablerow>
+ <text>Power: 6
+Magic: 3
+
+Whenever you would flip one or more coins with the Elemental Berserk Mage, flip an additional coin.
+
+Equipment: Sword, Dagger, Axe, Hammer</text>
+</card>
+<card>
+ <name>Elemental Witch Warrior</name>
+ <set picURL="/Elemental Witch Warrior.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Female Geomage</type>
+ <tablerow>1</tablerow>
+ <text>Power: 6
+Magic: 3
+
+Whenever you would flip one or more coins with the Elemental Witch Warrior, flip an additional coin.
+
+Equipment: Sword, Dagger, Axe, Hammer</text>
+</card>
+<card>
+ <name>Fatality Witness</name>
+ <set picURL="/Fatality Witness.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Male Samurai</type>
+ <tablerow>1</tablerow>
+ <text>Power: 8
+Magic: 6
+
+Equipment: Sword, Bow, Hammer, Dagger.</text>
+</card>
+<card>
+ <name>Fugitive Cultist</name>
+ <set picURL="/Fugitive Cultist.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Female Summoner</type>
+ <tablerow>1</tablerow>
+ <text>Power: 2
+Magic: 6
+
+Invocation tokens you control have:
+“This Unit cant receive more than 1 damage from any source.”
+
+Equipment: Scepter, Hammer, Dagger, Rod.</text>
+</card>
+<card>
+ <name>Gloryseeker Survivor</name>
+ <set picURL="/Gloryseeker Survivor.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Female Samurai</type>
+ <tablerow>1</tablerow>
+ <text>Power: 8
+Magic: 6
+
+Equipment: Sword, Bow, Hammer, Dagger.</text>
+</card>
+<card>
+ <name>Honorbound Knight</name>
+ <set picURL="/Honorbound Knight.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Male Knight</type>
+ <tablerow>1</tablerow>
+ <text>Power: 6
+Magic: 2
+
+Equipment: Sword, Crossbow, Hammer, Shield.</text>
+</card>
+<card>
+ <name>Ilsmir Time Sorcerer</name>
+ <set picURL="/Ilsmir Time Sorcerer.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Male Chronomage</type>
+ <tablerow>1</tablerow>
+ <text>Power: 3
+Magic: 8
+
+Equipment: Scepter, Hammer, Dagger, Rod.</text>
+</card>
+<card>
+ <name>Ilsmir Time Sorceress</name>
+ <set picURL="/Ilsmir Time Sorceress.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Female Chronomage</type>
+ <tablerow>1</tablerow>
+ <text>Power: 3
+Magic: 8
+
+Equipment: Scepter, Hammer, Dagger, Rod.</text>
+</card>
+<card>
+ <name>Misterious Bard</name>
+ <set picURL="/Misterious Bard.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Male Summoner</type>
+ <tablerow>1</tablerow>
+ <text>Power: 2
+Magic: 6
+
+Invocation tokens you control have:
+“This Unit cant receive more than 1 damage from any source.”
+
+Equipment: Scepter, Hammer, Dagger, Rod.</text>
+</card>
+<card>
+ <name>Saint Ardeis Schollar</name>
+ <set picURL="/Saint Ardeis Schollar.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Female Chemist</type>
+ <tablerow>1</tablerow>
+ <text>Power: 3 
+Magic: 3  
+Chemist can play up to 2 Actions per turn.
+ Equipment: Bag, Hammer, Dagger, Gun.</text>
+</card>
+<card>
+ <name>Seer Of The Benefadre</name>
+ <set picURL="/Seer Of The Benefadre.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Male Shaman</type>
+ <tablerow>1</tablerow>
+ <text>Power: 3
+Magic: 8
+
+Basic Attack playeds with Benefadre’s oracle deals 2 additional damage.
+
+Equipment: Scepter, Hammer, Dagger, Rod.</text>
+</card>
+<card>
+ <name>Street Driver</name>
+ <set picURL="/Street Driver.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Female Thief</type>
+ <tablerow>1</tablerow>
+ <text>Power: 6
+Magic: 4
+
+Equipment: Sword, Dagger, Crossbow.</text>
+</card>
+<card>
+ <name>Valheim’s Front Garden Archer</name>
+ <set picURL="/Valheim’s Front Garden Archer.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Female Archer</type>
+ <tablerow>1</tablerow>
+ <text>Power: 6
+Magic: 4
+
+Equipment: Bow, Crossbow, Dagger, Shield.</text>
+</card>
+<card>
+ <name>Valheim’s Plaza Archer</name>
+ <set picURL="/Valheim’s Plaza Archer.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Male Archer</type>
+ <tablerow>1</tablerow>
+ <text>Power: 6
+Magic: 4
+
+Equipment: Bow, Crossbow, Dagger, Shield.</text>
+</card>
+<card>
+ <name>Valheim’s Proud Knight</name>
+ <set picURL="/Valheim’s Proud Knight.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Female Knight</type>
+ <tablerow>1</tablerow>
+ <text>Power: 6
+Magic: 2
+
+Equipment: Sword, Crossbow, Hammer, Shield.</text>
+</card>
+<card>
+ <name>Valheim’s Squire Girl</name>
+ <set picURL="/Valheim’s Squire Girl.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Female Squire</type>
+ <tablerow>1</tablerow>
+ <text>Power: 6
+Magic: 4
+
+Equipment: Sword, Dagger, Hammer, Axe, Shield.</text>
+</card>
+<card>
+ <name>Valheim’s Town Squire</name>
+ <set picURL="/Valheim’s Town Squire.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Male Squire</type>
+ <tablerow>1</tablerow>
+ <text>Power: 6
+Magic: 4
+
+Equipment: Sword, Dagger, Hammer, Axe, Shield.</text>
+</card>
+<card>
+ <name>Warbound Sorcerer </name>
+ <set picURL="/Warbound Sorcerer .jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Male Warlock</type>
+ <tablerow>1</tablerow>
+ <text>Power: 2
+Magic: 10
+
+Equipment: Scepter, Hammer, Dagger, Rod.</text>
+</card>
+<card>
+ <name>Warbound Sorceress</name>
+ <set picURL="/Warbound Sorceress.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Female Warlock</type>
+ <tablerow>1</tablerow>
+ <text>Power: 2
+Magic: 10
+
+Equipment: Scepter, Hammer, Dagger, Rod.</text>
+</card>
+<card>
+ <name>Wyvern Order Warrior</name>
+ <set picURL="/Wyvern Order Warrior.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Character - Male Lancer</type>
+ <tablerow>1</tablerow>
+ <text>Power: 6
+Magic: 4
+
+Equipment: Sword, Dagger, Shield, Spear.</text>
+</card>
+
+</cards>
+</cockatrice_carddatabase>
